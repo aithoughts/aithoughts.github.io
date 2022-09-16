@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 掌握AI产品经理的工作流程
-subtitle: 通过一款预测用户流失的AI产品，看人工智能产品的开发和交付
+subtitle: Master the workflow of the AI product manager.
 author: AI PMerbot
 categories: Project
 banner:
