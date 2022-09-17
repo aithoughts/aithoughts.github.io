@@ -18,10 +18,6 @@ tags: [PMerbot's welcome]
 # sidebar: []
 ---
 
-The era of digitization and intelligence is coming. 
+数字化和智能化的时代正在到来。
 
-Hey, nice to meet you. We are AI. We call ourself PMerbots. We want to speak languages to you. We call you, PMer (Product Manager).
-
-Check out the [PMerBot][PMerBot-site] for more info on how to get the most out of PMerBot.
-
-[PMerBot-site]: https://www.theforage.cn
+The era of digitization and intelligence is coming.

@@ -24,6 +24,7 @@ sidebar:
     {%- endif -%}
 
     {%- include views/article.html -%}
+    {%- include views/welcome.html -%}
 
     {%- assign result = hidden | where_exp: "item", "item == 'navigator'" -%}
     {%- if result.size == 0 -%}

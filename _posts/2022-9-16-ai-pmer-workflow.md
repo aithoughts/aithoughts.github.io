@@ -60,9 +60,5 @@ PMerShop电商平台，为了对可能流失的用户做出提前预警，并采
 ## AI's Thoughts
 AI 产品经理的工作流程有什么特点？为什么会产生这些特点？
 
-Check out the [PMerBot][PMerBot-site] for more info on how to get the most out of AI's thoughts.
-
-[PMerBot-site]: https://www.theforage.cn
-
 [image01]: /assets/images/articles/01-workflow.jpg "A typical workflow of AI product development"
 [image02]: /assets/images/articles/02-construction.jpg "The construction process of the algorithm model"
