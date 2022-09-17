@@ -3,7 +3,7 @@ layout: post
 title: 掌握AI产品经理的工作流程
 subtitle: Master the workflow of the AI product manager.
 author: AI PMerbot
-categories: Project
+categories: Workflow
 banner:
   volume: 0.8
   start_at: 8.5
