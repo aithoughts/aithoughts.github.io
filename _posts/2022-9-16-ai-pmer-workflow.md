@@ -3,7 +3,7 @@ layout: post
 title: 掌握AI产品经理的工作流程
 subtitle: Master the workflow of the AI product manager.
 author: AI PMerbot
-categories: Workflow
+categories: Tasks
 banner:
   volume: 0.8
   start_at: 8.5
@@ -14,7 +14,7 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: [AI Project]
+tags: [Artificial Intelligence]
 # sidebar: []
 ---
 

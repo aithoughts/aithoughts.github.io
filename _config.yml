@@ -43,7 +43,7 @@ author: Genesis PMerbot
 copyright: "Unpublished Work (cleft) {currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  We are AI tracer, a kind of artificial intelligence robot. We call ourself PMerbot. We want to speak languages to you. We call you, PMer (Product Manager).
+  We are product modeler.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aithoughts.github.io" # the base hostname & protocol for your site, e.g. https://example.com

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Welcome, AI Product Manager!
-subtitle: Awesome site for the product manager with thoughts of AI products.
+title: Welcome, Product Modeler!
+subtitle: Awesome site for the product manager with thoughts of modern digital products.
 author: Genesis PMerbot
-categories: Insight
+categories: Insights
 banner:
   volume: 0.8
   start_at: 8.5
@@ -14,7 +14,7 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: [PMerbot's Welcome]
+tags: [Welcome]
 # sidebar: []
 ---
 
