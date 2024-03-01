@@ -1,1 +1,1 @@
-# aitracer.github.io
+# aithoughts.github.io
